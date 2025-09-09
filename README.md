@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Sorel
 
-<!--
-**sorekdj60/sorekdj60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+💻 Passionate about **Machine Learning, NLP, and Fullstack Web Development**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+
+**Programming & Data**  
+- Python (Pandas, NumPy, OpenCV, scikit-learn, Tkinter, PyTorch, Django, Flask)  
+- C / C++ / Java  
+- SQL, MongoDB  
+- MATLAB, LabVIEW  
+
+**Data Science & AI**  
+- Machine Learning & Deep Learning  
+- Natural Language Processing (Transformers, LLMs, HuggingFace)  
+- Data Analysis & Visualization (Power BI, Matplotlib)  
+
+**Web Development**  
+- Frontend: React, Vite, HTML, CSS, JavaScript  
+- Backend: Flask, Django  
+- REST APIs & fullstack integration  
+
+**Other Tools**  
+- Power Apps, PowerPoint, Excel, Word  
+- Git & GitHub for version control  
+
+**Languages**  
+- 🇫🇷 French (Native)  
+- 🇩🇪 German (Fluent)  
+- 🇬🇧 English (Intermediate, improving)  
+
+---
+
+
+
+Personal Projects  
+
+- **NLP & Question Answering**  
+  Fine-tuned DistilBERT and T5 on the SQuAD dataset, compared them to LLaMA-2 and ChatGPT.  
+
+- **Mediatransfo.com** *(Hobby Project)*  
+  Personal website built with **React + Vite (frontend)** and **Flask (backend)**.  
+
+- **Data Analysis in Insurance**  
+  Designed **predictive models** with scikit-learn to identify potential clients using synthetic datasets.  
+  
+
+- **Library Manager in C++**  
+  Console-based application for managing customers and media.  
+
+- **Customer Database in Java + SQL**  
+  Built a database system with GUI, integrated with SQL backend.  
+
+---
+
+## 📫 Contact  
+
+- 📧 [tahatadjoumsisorel@yahoo.com](mailto:tahatadjoumsisorel@yahoo.com)  
+- 💼 [GitHub Profile](https://github.com/sorekdj60)  
+- 🌐 [Website](https://mediatransfo.com/)  
+
+---
